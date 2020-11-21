@@ -75,7 +75,9 @@
     font-size: 50px;
   }
   #be {
-
+     position: relative;
+    top: 80px;
+    right: 180px;
     margin-left: 410px;
     margin-right: 430px;
     text-align: center;
