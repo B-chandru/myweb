@@ -75,6 +75,7 @@
     font-size: 50px;
   }
   #be {
+
     margin-left: 410px;
     margin-right: 430px;
     text-align: center;
@@ -366,8 +367,11 @@
     font-size: 40px;
   }
   #be {
+     position: relative;
+    top: 80px;
+    right: 180px;
+    color: red;
     margin-left: 410px;
-    margin-right: 430px;
     text-align: center;
     border-radius: 7px;
     margin-top: 40px;
