@@ -2,7 +2,13 @@
     border: 0px;
     margin: 0px;
     padding: 0px;
+box-sizing:border-box;
   }
+body{
+Width:100vh;
+Overflow:hidden;
+}
+
   header {
     width: 100%;
     height: 70px;
