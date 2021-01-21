@@ -6,6 +6,7 @@ box-sizing:border-box;
   }
 body{
 Width:100vh;
+Height:100vh;
 Overflow:hidden;
 }
 
